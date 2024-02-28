@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tree-sitter": "^0.20.6",
+    "tree-sitter-swift": "^0.4.0"
+  }
+}
